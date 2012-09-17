@@ -1,0 +1,8 @@
+@inproceedings{ distillation-ndss04,
+  author = "Chris Karlof and Naveen Sastry and Yaping Li and Adrian Perrig and J.D. Tygar",
+  title = "{Distillation Codes and Applications to {DoS} Resistant Multicast Authentication}",
+  booktitle = "Eleventh Annual Network and Distributed Systems Security Symposium (NDSS 2004)",
+  pages = "37--56",
+  month = "February",
+  year = 2004 }
+

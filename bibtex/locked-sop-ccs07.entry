@@ -1,0 +1,8 @@
+@inproceedings{ locked-sop-ccs07,
+  author = "Chris Karlof and Umesh Shankar and J.D. Tygar and David Wagner",
+  title = "{Dynamic Pharming Attacks and Locked Same-origin Policies for Web Browsers}",
+  booktitle = "Fourteenth ACM Conference on Computer and Communications Security (CCS 2007)",
+  month = "October",
+  pages = "58--72",
+  year = 2007 }
+

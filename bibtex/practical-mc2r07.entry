@@ -1,0 +1,8 @@
+@article{ practical-mc2r07,
+  author = "Kamin Whitehouse and Chris Karlof and David Culler",
+  journal = "{ACM Mobile Computing and Communications Review (MC2R), Special Issue on Localization}",
+  volume = 11,
+  number = 1,
+  pages = "41--52",
+  month = "January",
+  year = 2007 }

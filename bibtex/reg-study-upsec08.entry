@@ -1,0 +1,7 @@
+@inproceedings{ reg-study-upsec08,
+  author = "Chris Karlof and J.D. Tygar and David Wagner",
+  title = "{A User Study Design for Comparing the Security of Registration Protocols}",
+  booktitle = "First USENIX Workshop on Usability, Psychology, and Security (UPSEC 2008)",
+  month = "April",
+  year = 2008 }
+

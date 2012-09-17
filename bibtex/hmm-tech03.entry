@@ -1,0 +1,9 @@
+@TechReport{hmm-tech03,
+  author =       {Chris Karlof and David Wagner},
+  title =        "Hidden Markov Model Cryptanalysis",
+  institution =  {University of California at Berkeley},
+  year =         {2003},
+  month =        "June",
+  number =    {UCB/CSD-03-1244},
+}
+

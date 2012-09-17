@@ -1,0 +1,8 @@
+@inproceedings{ tinysec-sensys04,
+  author = "Chris Karlof and Naveen Sastry and David Wagner",
+  title = "TinySec: A Link Layer Security Architecture for Wireless Sensor Networks",
+  booktitle = "Second ACM Conference on Embedded Networked Sensor Systems (SenSys 2004)",
+  pages = "162--175",
+  month = "November",
+  year = 2004 }
+

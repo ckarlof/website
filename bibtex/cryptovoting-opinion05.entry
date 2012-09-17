@@ -1,0 +1,7 @@
+@misc{cryptovoting-opinion05,
+  author = "Chris Karlof and Naveen Sastry and David Wagner",
+  title = "The Promise of Cryptographic Voting Protocols",
+  month = "June",
+  year =  2005, 
+  note = "Unpublished manuscript"
+}

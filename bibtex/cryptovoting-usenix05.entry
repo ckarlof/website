@@ -1,0 +1,8 @@
+@inproceedings{ cryptovoting-usenix05,
+  author = "Chris Karlof and Naveen Sastry and David Wagner",
+  title = "{Cryptographic Voting Protocols: A Systems Perspective}",
+  booktitle = "Fourteenth USENIX Security Symposium (USENIX Security 2005)",
+  pages = "33--50",
+  month = "August",
+  year = 2005 }
+

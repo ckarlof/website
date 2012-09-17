@@ -1,0 +1,8 @@
+@inproceedings{peg-ewsn05, 
+   author="Cory Sharp and Shawn Schaffert and Alec Woo and Naveen Sastry and Chris Karlof and Shankar Sastry and David Culler",
+   title = "Design and Implementation of a Sensor Network System for Vehicle Tracking and Autonomous Interception",
+   booktitle = "Second European Workshop on Wireless Sensor Networks (EWSN 2005)",
+   pages = "93--107",
+   month = "January",
+   year = 2005,
+}

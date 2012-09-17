@@ -1,0 +1,9 @@
+@TechReport{doppel-user-tech-rep07,
+  author =       {Chris Karlof and Umesh Shankar},
+  title =        "{A Usability Study of Doppelganger, A Tool for Better Browser Privacy}",
+  institution =  {University of California at Berkeley},
+  year =         {2007},
+  month =        September,
+  number =    {UCB/EECS-2007-116},
+}
+

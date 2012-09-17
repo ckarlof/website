@@ -1,0 +1,8 @@
+ @misc{diebold-sos06,
+  author =       "David Wagner and David Jefferson and Matt Bishop and Chris Karlof and Naveen Sastry", 
+  title =        "Security Analysis of the {D}iebold {AccuBasic} Interpreter",
+  howpublished = "California Secretary of State's Voting Systems Technology Assessment Advisory Board (VSTAAB)",
+  month =        "February",
+  year =         2006
+}
+

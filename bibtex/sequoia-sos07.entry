@@ -1,0 +1,8 @@
+ @misc{sequoia-sos07,
+  author =       "Matt Blaze, Arel Cordero, Sophie Engle, Chris Karlof, Naveen Sastry, Micah Sherr, Till Stegers, and Ka-Ping Yee",
+  title =        "{Source Code Review of the Sequoia Voting System}",
+  howpublished = "{California Secretary of State's Top-to-Bottom Review}"
+  month =        "July",
+  year =         2007
+}
+

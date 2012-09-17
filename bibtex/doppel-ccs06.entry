@@ -1,0 +1,8 @@
+@inproceedings{ doppel-ccs06,
+  author = "Umesh Shankar and Chris Karlof",
+  title = "{Doppelganger: Better Browser Privacy Without the Bother}",
+  booktitle = "Thirteenth ACM Conference on Computer and Communications Security (CCS 2006)",
+  month = "November",
+  pages = "154--167",
+  year = 2006 }
+

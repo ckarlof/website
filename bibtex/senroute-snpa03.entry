@@ -1,0 +1,8 @@
+@inproceedings{ senroute-snpa03,
+  author = "Chris Karlof and David Wagner",
+  title = "Secure Routing in Wireless Sensor Networks: Attacks and Countermeasures",
+  booktitle = "First IEEE International Workshop on Sensor Network Protocols and Applications",
+  pages = "113--127",
+  month = "May",
+  year = 2003 }
+

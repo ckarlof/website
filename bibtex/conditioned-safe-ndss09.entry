@@ -1,0 +1,7 @@
+@inproceedings{ conditioned-safe-ndss09,
+  author = "Chris Karlof and J.D. Tygar and David Wagner",
+  title = "{Conditioned-safe Ceremonies and a User Study of an Application to Web Authentication}",
+  booktitle = "Sixteenth Annual Network and Distributed Systems Security Symposium (NDSS 2009)",
+  month = "February",
+  year = 2009 }
+

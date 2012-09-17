@@ -1,0 +1,7 @@
+@inproceedings{ pake-w2sp09,
+  author = "John Engler and Chris Karlof and Elaine Shi and Dawn Song",
+  title = "Is it too late for {PAKE}?",
+  booktitle = "Web 2.0 Security and Privacy Workshop 2009 (W2SP 2009)",
+  month = "May",
+  year = 2009 }
+

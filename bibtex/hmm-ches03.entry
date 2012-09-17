@@ -1,0 +1,8 @@
+@inproceedings{ hmm-ches03,
+  author = "Chris Karlof and David Wagner",
+  title = "Hidden Markov Model Cryptanalysis",
+  booktitle = "Fifth Workshop on Cryptographic Hardware and Embedded Systems (CHES 2003), LNCS 2779",
+  pages = "17--24",
+  month = "September",
+  year = 2003 }
+

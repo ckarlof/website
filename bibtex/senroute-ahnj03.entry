@@ -1,0 +1,10 @@
+@article{ senroute-ahnj03,
+  author = "Chris Karlof and David Wagner",
+  title = "{Secure Routing in Wireless Sensor Networks: Attacks and Countermeasures}",
+  journal = "Elsevier's AdHoc Networks Journal, Special Issue on Sensor Network Applications and Protocols",
+  volume = 1,
+  number = "2--3",
+  pages = "293--315",
+  month = "September",
+  year = 2003 }
+

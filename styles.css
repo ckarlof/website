@@ -1,0 +1,26 @@
+body	{ font-family: Verdana, Arial, Helvetica, sans-serif; 
+          font-size: 10pt; color: black; background: #FFFFFF}
+p	{ font-family: Verdana, Arial, Helvetica, sans-serif; 
+          font-size: 10pt; color: black}
+table   { font-family: Verdana, Arial, Helvetica, sans-serif; 
+          border: 0in ; padding: 4px; margin:0px;
+          font-size: 10pt; color: black}
+pre     { background: #DDDDDD; font-size: 11pt; 
+          width: 7.5in; margin-left:1.5cm; padding:5mm}
+
+h3      { background: #DDDDDD}
+
+a:visited.pic { color: #DDDDDD }
+a:link.pic    { color: #DDDDDD }
+a:hover.pic   { color: black   }
+
+.pic-body { font-family: Verdana, Arial, Helvetica, sans-serif; 
+            font-size: 12pt; color: black; background: #DDDDDD;}
+.pic-img  { text-align:center; }
+.pic-capt { padding-top: 4mm; text-align: center }
+
+.contact-body { background: #DDDDDD}
+
+.table_heading   { background: #6699CC ; font-weight:bold; height:20}
+.table_highlight { background: #DDDDDD }
+.table_summary   { background: #FFFF00 }
